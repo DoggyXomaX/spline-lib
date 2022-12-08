@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "strictNullChecks": true,
+    "rootDir": "src",
+    "outDir": "build",
+    "target": "ES6",
+    "sourceMap": true
+  }
+}
